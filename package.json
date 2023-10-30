@@ -1,5 +1,5 @@
 {
-  "name": "angular-validator",
+  "name": "@otr-app/angular-validator",
   "version": "1.2.10",
   "description": "Angular-Validator is an easy to use, powerful and lightweight AngularJS validation directive.",
   "main": "./dist/angular-validator.js",
